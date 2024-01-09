@@ -25,3 +25,6 @@ To start the application, run the following command in your terminal:
 
 ```bash
 node index.js
+```
+## Demo
+Link to watch a video of the functionality [video](https://drive.google.com/file/d/1cRjPnzcOGMW1P6yTgxVLDXqlvpoq0ylz/view)
